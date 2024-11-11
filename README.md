@@ -1,4 +1,15 @@
-## Hi there 👋
+### Hello there! <img src="https://emojis.slackmojis.com/emojis/images/1643514596/5999/meow_party.gif?1643514596" width="25"/>
+
+I'm [**Annie**](https://annied11.github.io/Website-Portforlio/), a CS student at Pitt. Here you'll find my personal and collaborative projects, showcasing what I’m working on, learning, and building in the world of tech!
+
+#### 🌱 About Me
+- _Soft_ peaches >>.
+- Outside of coding, I enjoy drawing.
+- Currently project grinding....
+
+🌎 Connect with me on [LinkedIn](https://www.linkedin.com/in/wanyidai/)!
+
+↓ Feel free to checkout my some of my projects here ↓
 
 <!--
 **annied11/annied11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
