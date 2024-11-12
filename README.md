@@ -3,7 +3,7 @@
 I'm [**Annie**](https://annied11.github.io/Website-Portforlio/), a CS student at Pitt. Here you'll find my personal and collaborative projects, showcasing what I’m working on, learning, and building in the world of tech!
 
 #### 🌱 About Me
-- _Soft_ peaches >>.
+- _Soft_ peaches >>
 - Outside of coding, I enjoy drawing.
 - Currently project grinding....
 
