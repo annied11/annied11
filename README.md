@@ -5,7 +5,7 @@ I'm [**Annie**](https://annied11.github.io/Website-Portforlio/), a CS student at
 #### 🌱 About Me
 - I love mangoes and _Soft_ peaches >>
 - Outside of coding, I enjoy making drinks.
-- Currently project grinding....
+- Currently grinding for finalzzz....
 
 🌎 Connect with me on [LinkedIn](https://www.linkedin.com/in/wanyidai/)!
 
